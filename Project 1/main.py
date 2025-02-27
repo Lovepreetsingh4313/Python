@@ -1,3 +1,5 @@
+# PROJECT : SNAKE, WATER, GUN GAME
+
 import random
 '''
 1 for snake
